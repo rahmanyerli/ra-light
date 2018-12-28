@@ -1,0 +1,39 @@
+{
+	"name": "ra-light",
+	"displayName": "Ra Light",
+	"description": "Here is the best theme for your eye care!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Light",
+				"uiTheme": "vs",
+				"path": "./themes/ra-light.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-light"
+	},
+	"icon": "images/ra.png",
+	"keywords": [
+		"ra light",
+		"ralight",
+		"ra-light",
+		"ra light theme",
+		"theme",
+		"ra"
+	]
+}
