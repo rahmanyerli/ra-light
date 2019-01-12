@@ -1,8 +1,8 @@
-# Ra Light theme for VSCode
+# Ra Spring theme for VSCode
 
 **Here is the best theme for your eye care!**
 
-[GitHub Repository](https://github.com/rahmanyerli/ra-light)
+[GitHub Repository](https://github.com/rahmanyerli/ra-spring)
 
 > HTML
 
