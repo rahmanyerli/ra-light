@@ -1,6 +1,6 @@
 {
-	"name": "ra-light",
-	"displayName": "Ra Light",
+	"name": "ra-spring",
+	"displayName": "Ra Spring",
 	"description": "Here is the best theme for your eye care!",
 	"version": "0.0.1",
 	"engines": {
@@ -12,9 +12,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ra Light",
+				"label": "Ra Spring",
 				"uiTheme": "vs",
-				"path": "./themes/ra-light.json"
+				"path": "./themes/ra-spring.json"
 			}
 		]
 	},
@@ -25,14 +25,14 @@
 	"license": "MIT",
 	"repository": {
 		"type": "GitHub",
-		"url": "https://github.com/rahmanyerli/ra-light"
+		"url": "https://github.com/rahmanyerli/ra-spring"
 	},
 	"icon": "images/ra.png",
 	"keywords": [
-		"ra light",
-		"ralight",
-		"ra-light",
-		"ra light theme",
+		"ra spring",
+		"raspring",
+		"ra-spring",
+		"ra spring theme",
 		"theme",
 		"ra"
 	]
