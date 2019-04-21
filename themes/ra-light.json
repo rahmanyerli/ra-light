@@ -59,7 +59,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -79,13 +79,13 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -126,14 +126,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -218,25 +218,25 @@
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -299,13 +299,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -439,7 +439,7 @@
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
@@ -522,7 +522,7 @@
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#993366"
+				"foreground": "#990033"
 			}
 		},
 		{
